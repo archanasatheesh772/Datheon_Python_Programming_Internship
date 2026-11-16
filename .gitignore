@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+Investment-Portfolio-Tracker/portfolio_summary.csv
